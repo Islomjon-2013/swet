@@ -1,0 +1,16 @@
+.btn__on{
+    padding:10px 20px;
+    background-color: green;
+    border: none;
+    border-radius: 2px;
+    color: wheat;
+    font-size: 20px;
+}
+.btn__off{
+    padding:10px 20px;
+    background-color: red;
+    border: none; 
+    border-radius: 2px;
+    color: wheat;
+    font-size: 20px;
+}
